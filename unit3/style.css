@@ -1,0 +1,14 @@
+body {
+	background
+	background-color:"sky blue";
+	color:black;
+	font-weight: normal;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	color: white;
+	font-weight: bold;
+}
+h2 {
+	font-style: italic;
+}
