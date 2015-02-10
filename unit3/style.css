@@ -1,10 +1,13 @@
 body {
-	background-color:"sky blue";
+	background-image:url(images/marketing.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color:skyblue;
 	color:black;
 	font-weight: normal;
+	font-family: Arial, sans-serif;
 }
 h1 {
-	font-family: Arial, sans-serif;
 	color: white;
 	font-weight: bold;
 }
