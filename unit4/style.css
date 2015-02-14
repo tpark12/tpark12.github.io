@@ -5,14 +5,14 @@ body {
 	background-color:skyblue;
 	color:black;
 	font-weight: normal;
-	font-family: Arial, sans-serif;
+	font-family: 'Playfair Display', serif;
 }
 h1 {
 	font-family: 'Oswald', sans-serif;
 	color: white;
-	font-weight: bold;
+	font-weight:700;
 }
 h2 {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Oswald', sans-serif;
 	font-style: italic;
 }
