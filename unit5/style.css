@@ -12,3 +12,10 @@ h2 {
 	font-family: 'Oswald', sans-serif;
 	font-style: italic;
 }
+.product {
+	float:left;
+	width:33.33%;
+}
+.product img {
+	width:100%;
+}
