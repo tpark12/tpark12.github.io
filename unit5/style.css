@@ -1,22 +1,14 @@
 body {
-	background-image:url(images/marketing.jpg);
-	background-repeat:no-repeat;
-	background-size:cover;
-	background-color:skyblue;
-	color:black;
+	color:#222222;
 	font-weight: normal;
 	font-family: 'Playfair Display', serif;
 
 }
 h1 {
 	font-family: 'Oswald', sans-serif;
-	color: white;
 	font-weight:700;
 }
 h2 {
 	font-family: 'Oswald', sans-serif;
 	font-style: italic;
-}
-img {
-	image:url(images/cell_phones.jpg)
 }
