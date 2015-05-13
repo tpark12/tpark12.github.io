@@ -48,10 +48,10 @@ h2 {
 .product {
 	float:left;
 	min-height: 520px;
-	padding: 1.5em;
+	padding: 1em;
 	width: 33.33%;
 }
 .product img {
-	width: 100%;
+	width: 33.33%;
 	}
 }
