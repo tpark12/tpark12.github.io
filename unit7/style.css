@@ -8,22 +8,24 @@
  	.product {
  		float:left;
  		min-height: 520px;
- 		padding:1em;
- 		width:50%;
+ 		padding: .5em;
+ 		width: 50%;
  	}
- .product img{
- 	width:50%;
+ .product img {
+ 	width: 50%;
  }
  	section {
  		margin-left: 
  	}
  }
- @media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
  	nav li {
  		display: inline;
  	}
- }
-*{margin:0;padding:0;box-sizing:border-box;}
+ 
+*{margin:0 1em 1em;
+	padding:0;
+	box-sizing:border-box;}
 html {
 
 
@@ -37,7 +39,7 @@ body {
 
 h1 {
 	font-family: 'Oswald', sans-serif;
-	font-weight:700;
+	font-weight: 700;
 }
 h2 {
 	font-family: 'Oswald', sans-serif;
@@ -45,10 +47,11 @@ h2 {
 }
 .product {
 	float:left;
-	min-height:520px;
-	padding:1em;
-	width:33.33%;
+	min-height: 520px;
+	padding: 1em;
+	width: 33.33%;
 }
 .product img {
-	width:100%;
+	width: 100%;
+	}
 }
