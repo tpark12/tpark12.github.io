@@ -8,7 +8,7 @@
  	.product {
  		float:left;
  		min-height: 520px;
- 		padding: .5em;
+ 		padding: 1em;
  		width: 50%;
  	}
  .product img {
@@ -52,6 +52,6 @@ h2 {
 	width: 33.33%;
 }
 .product img {
-	width: 50%;
+	width: 100%;
 	}
 }
