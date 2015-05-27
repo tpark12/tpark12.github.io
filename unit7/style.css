@@ -24,7 +24,7 @@ h2 {
 }
 .product {
 	float:left;
-	min-height: 535px;
+	min-height: 450px;
 	max-height: 600px;
 	padding: 1em;
 	width: 33.33%;
