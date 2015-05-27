@@ -1,5 +1,5 @@
 *{
-	margin:0 0em 1em;
+	margin:0 0em .5em;
 	padding:0;
 	box-sizing:border-box;
 }
@@ -26,7 +26,7 @@ h2 {
 	float:left;
 	min-height: 535px;
 	max-height: 600px;
-	padding: .75em;
+	padding: 1em;
 	width: 33.33%;
 }
 .product img {
