@@ -30,7 +30,7 @@ h2 {
 	width: 33.33%;
 }
 .product img {
-	width: 100%;
+	width: 75%;
 }
 @media only screen and (min-width: 601px) and (max-width: 800px) {
  	nav li {
