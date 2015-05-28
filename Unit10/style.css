@@ -1,0 +1,11 @@
+*{
+	margin:0 0em 1em;
+	padding:0;
+	box-sizing:border-box;
+}
+body {
+	background-image: url ("Electronic devices.jpg");
+	color:#222222;
+	font-weight: normal;
+	font-family: 'Playfair Display', serif;
+}
