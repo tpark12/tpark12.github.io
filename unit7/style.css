@@ -39,6 +39,7 @@ items {
 	float:left;
 	padding:1 1em;
 	width: 25%;
+	height: 100%;
 }
 }
 @media only screen and (min-width: 601px) and (max-width: 800px) {
