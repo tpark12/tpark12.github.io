@@ -7,7 +7,7 @@
 }
 body {
 	
-	background color:;
+	background color:#FFFFFF;
 	font-weight: normal;
 	font-family: 'Playfair Display', serif;
 }
@@ -34,6 +34,11 @@ h2 {
 }
 .product img {
 	width: 100%;
+}
+items {
+	float:left;
+	padding:1 1em;
+}
 }
 @media only screen and (min-width: 601px) and (max-width: 800px) {
  	nav li {
