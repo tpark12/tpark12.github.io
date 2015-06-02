@@ -38,9 +38,9 @@ h2 {
 items {
 	float:left;
 	margin-left: 0em;
-	padding:0em;
+	padding:2em 0em;
 	vertical-align: baseline;
-	width: 1em;
+	width: 100em;
 	height: 100%;
 }
 }
