@@ -38,6 +38,8 @@ h2 {
 items {
 	float:left;
 	margin-left: 0em;
+	display: block;
+	position: relative;
 	padding:2em 0em;
 	vertical-align: baseline;
 	width: 100em;
