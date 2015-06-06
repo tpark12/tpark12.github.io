@@ -45,7 +45,13 @@ items {
 	width: 100em;
 	height: 100%;
 }
+
+cell phones {
+	float:left;
+	margin-left: 0em;
+	width: 25%;
 }
+
 @media only screen and (min-width: 601px) and (max-width: 800px) {
  	nav li {
  		display: inline;
@@ -65,3 +71,4 @@ items {
  	section {
  		margin-left:;
  	}
+ 
