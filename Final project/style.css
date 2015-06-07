@@ -46,7 +46,7 @@ items {
 	height: 100%;
 }
 
-cell phones {
+.cell phones {
 	float:left;
 	min-height:200px;
 	max-height: 400px;
@@ -74,7 +74,7 @@ cell phones {
  	section {
  		margin-left:;
  	}
- 	cell phones {
+ 	.cell phones {
  		width: 25%;
  	}
  
