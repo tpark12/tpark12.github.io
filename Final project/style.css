@@ -48,7 +48,10 @@ items {
 
 cell phones {
 	float:left;
+	min-height:200px;
+	max-height: 400px;
 	margin-left: 0em;
+	padding-top: 1em;
 	width: 25%;
 }
 
@@ -70,5 +73,8 @@ cell phones {
  	}
  	section {
  		margin-left:;
+ 	}
+ 	cell phones {
+ 		width: 25%;
  	}
  
