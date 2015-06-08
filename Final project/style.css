@@ -48,8 +48,8 @@ items {
 
 .cell phones {
 	float:left;
-	min-height:200px;
-	max-height: 400px;
+	min-height:10px;
+	max-height: 100px;
 	margin-left: 0em;
 	padding-top: 1em;
 	width: 25%;
