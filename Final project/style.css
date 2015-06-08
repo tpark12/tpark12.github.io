@@ -60,8 +60,8 @@ items {
 	min-height: 5px;
 	max-height: 30px;
 	margin-left: 1em 0em;
-	padding-left: 0em 1em;
-	width: 25%;
+	padding-left: 0em 0em;
+	width: 100%;
 }
 
 @media only screen and (min-width: 601px) and (max-width: 800px) {
