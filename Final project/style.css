@@ -71,6 +71,9 @@ items {
   	.product {
  		width: 50%;
  	}
+ 	.wireless providers {
+ 		width: 25%;
+ 	}
 }
 @media only screen and (min-width: 320px) and (max-width: 600px) {
  	#nav_menu {
@@ -85,5 +88,8 @@ items {
  	}
  	.cell phones {
  		width: 25%;
+ 	}
+ 	.wireless providers {
+ 		width: 50%;
  	}
  
