@@ -49,7 +49,7 @@ items {
 .cell phones {
 	float:left;
 	min-height:10px;
-	max-height: 100px;
+	max-height: 50px;
 	margin-left: 0em;
 	padding-top: 1em;
 	width: 1em;
@@ -59,7 +59,7 @@ items {
 	float:left;
 	min-height: 5px;
 	max-height: 30px;
-	margin-left: .5em 0em;
+	margin: .5em 0em 0em;
 	padding-left: 0em 0em;
 	width: 1em;
 }
