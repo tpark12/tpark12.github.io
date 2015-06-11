@@ -50,9 +50,9 @@ items {
 	float:left;
 	min-height:10px;
 	max-height: 50px;
-	margin-left: 0em;
+	margin-left: 0 1em;
 	padding-top: 1em;
-	width: 1em;
+	width: 4em;
 }
 
 .wireless providers {
