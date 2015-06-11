@@ -48,8 +48,8 @@ items {
 
 .cell phones {
 	float:left;
-	min-height:10px;
-	max-height: 50px;
+	min-height:230px;
+	max-height:600px;
 	margin-left: 0 1em;
 	padding-top: 1em;
 	width: 4em;
@@ -87,7 +87,7 @@ items {
  		margin-left:;
  	}
  	.cell phones {
- 		width: 50%;
+ 		width: 100%;
  	}
  	.wireless providers {
  		width: 50%;
