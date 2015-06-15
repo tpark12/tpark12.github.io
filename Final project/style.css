@@ -70,7 +70,7 @@ items {
 	max-height: 640px;
 	margin-left: 1em 0em;
 	padding-top: 1em;
-	width: 25%;
+	width: 50%;
 }
 
 @media only screen and (min-width: 601px) and (max-width: 800px) {
