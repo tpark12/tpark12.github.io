@@ -76,9 +76,9 @@ items {
 	float:left;
 	min-height: 15px;
 	max-height: 500px;
-	margin-left: 1em 0em 0em;
+	margin-left: .5em 0em 0em;
 	padding-left: 0em 1em;
-	width: 50%;
+	width: 2em;
 }
 
 @media only screen and (min-width: 601px) and (max-width: 800px) {
