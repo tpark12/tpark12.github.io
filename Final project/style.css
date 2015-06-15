@@ -76,7 +76,7 @@ items {
 	float:left;
 	min-height: 100px;
 	max-height: 500px;
-	margin-left: .5em 0em 0em;
+	margin-left: .5em 0em;
 	padding-left: 0em 1em;
 	width: 100%;
 }
