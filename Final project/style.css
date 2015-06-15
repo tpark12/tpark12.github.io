@@ -66,9 +66,9 @@ items {
 
 .videogames {
 	float:left;
-	min-height: 20px;
+	min-height: 200px;
 	max-height: 640px;
-	margin-left: 1em 0em 0em;
+	margin-left: 1em 0em;
 	padding-left: 1em;
 	width: 1em;
 }
