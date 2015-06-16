@@ -73,7 +73,7 @@ items {
 	width: 100%;
 }
 .controllers {
-	float:left;
+	
 	min-height: 100px;
 	max-height: 300px;
 	margin-left: -1em;
