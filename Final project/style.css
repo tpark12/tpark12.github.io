@@ -78,7 +78,7 @@ items {
 	max-height: 300px;
 	margin: -1em;
 	padding-right: 1em 0em;
-	width: 100%;
+	width: 50%;
 }
 
 @media only screen and (min-width: 601px) and (max-width: 800px) {
