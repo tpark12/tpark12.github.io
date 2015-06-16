@@ -74,8 +74,8 @@ items {
 }
 .controllers {
 	float:left;
-	min-height: 400px;
-	max-height: 500px;
+	min-height: 600px;
+	max-height: 800px;
 	margin: 0em;
 	padding-bottom: 1em 0em;
 	width: 100%;
