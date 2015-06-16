@@ -91,6 +91,9 @@ items {
  	.wireless providers {
  		width: 25%;
  	}
+ 	.videogames {
+ 		width: 50%;
+ 	}
 }
 @media only screen and (min-width: 320px) and (max-width: 600px) {
  	#nav_menu {
@@ -108,5 +111,8 @@ items {
  	}
  	.wireless providers {
  		width: 50%;
+ 	}
+ 	.videogames {
+ 		width: 100%;
  	}
  
