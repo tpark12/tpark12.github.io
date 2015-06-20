@@ -69,7 +69,7 @@ items {
 	min-height: 200px;
 	max-height: 359px;
 	margin-left: 1em 0em;
-	padding-left: 1em;
+	padding-left: .5em;
 	width: 100%;
 }
 .controllers {
