@@ -2,9 +2,9 @@
 body{
 	background-image: url(images/stripes.png),
 	url(images/background.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat-x, no-repeat;
 	background-size: cover;
-	color: white;
+	color: #fd6e6e;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 24px;
 }
