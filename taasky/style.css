@@ -4,7 +4,7 @@ body{
 	url(images/background.jpg);
 	background-repeat: repeat-x, no-repeat;
 	background-size: auto, cover;
-	color: #fd6e6e;
+	color: white;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 24px;
 }
@@ -12,6 +12,7 @@ div{
 	margin: 345px 0px 0px 200px;
 }
 hr{
+	color: #fd6e6e;
 	width: 48px;
 }
 p{
