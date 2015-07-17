@@ -4,6 +4,7 @@ body{
 	url(images/background.jpg);
 	background-repeat: repeat-x, no-repeat;
 	background-size: auto, cover;
+	background-color: #535a69;
 	color: white;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 24px;
