@@ -1,8 +1,8 @@
 *{ margin:0; padding:0; box-sizing; border-box;}
 body{
 	background-image: url(images/background.jpg);
+	background-attachment:initial;
 	background-repeat: no-repeat;
-	
 	color: white;
 	font-size: 40px 
 }
