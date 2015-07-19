@@ -12,6 +12,10 @@ body{
 section {
 		padding:5em 0;
 }
-section#mainContent div {
+section#mainContent {
 	background:#E91E63;
+}
+section#mainContent div {
+		margin:0 auto;
+		max-width: 75em;
 }
