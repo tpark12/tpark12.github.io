@@ -12,3 +12,6 @@ body{
 section {
 		padding:5em 0;
 }
+section#mainContent div {
+	background:#E91E63;
+}
