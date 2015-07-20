@@ -19,3 +19,15 @@ section#mainContent div {
 		margin:0 auto;
 		max-width: 75em;
 }
+section#cast .players {
+	background:rgba(3, 169, 244, 1);
+	border-radius:.5em;
+	color:#fff;
+	float:left;
+	margin:.5%;
+	min-height: 16em;
+	padding:1em 2em 1em 1em;
+	position: relative;
+	text-align:justify;
+	width:49%;
+}
