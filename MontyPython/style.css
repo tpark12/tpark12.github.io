@@ -28,6 +28,13 @@ section#mainContent div {
 		margin:0 auto;
 		max-width: 75em;
 }
+section#cast {
+	background:rgba(129,212,250,.8);
+}
+section#cast div {
+	margin:0 auto;
+	max-width: 75em;
+}
 section#cast .players {
 	background:rgba(3, 169, 244, 1);
 	border-radius:.5em;
