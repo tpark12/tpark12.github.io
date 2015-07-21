@@ -1,5 +1,7 @@
 *{ margin:0; padding:0; box-sizing; border-box;
 	}
+p + p {margin-top: 1em;}
+p + a {margin-top: 1.5em;}
 body{
 	background-image: url(images/background.jpg);
 	background-attachment:fixed;
@@ -10,7 +12,8 @@ body{
 	font-family: 'Roboto', sans-serif;
 	font-weight:100; 
 }
-
+section {
+		padding:5em 0;
 }
 section#splash {
 	height: 100vh;
