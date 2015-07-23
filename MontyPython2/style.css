@@ -20,7 +20,7 @@ section#classnote{
 	font-size: 16px;
 	padding: 1px 0px 1px 0px;
 	margin: 5px;
-	border: 10px;
+	border: 0px;
 	word-spacing: 5px;
 	color:#FFFFFF;
 }
@@ -28,6 +28,6 @@ section#classnote{
 	box-sizing: box;
 	background-color: #e91e63;
 	float: left;
-	width: 33%;
+	width: 32%;
 	column-width: 0px;
 }
