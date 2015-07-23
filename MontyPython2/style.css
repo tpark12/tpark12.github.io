@@ -2,8 +2,9 @@
 body{
 	background-image: url(images/background.jpg);
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 	font-size: 40px;
-	margin:;
+	margin:0em;
 }
 h1{
 	font-family: sans-serif;
