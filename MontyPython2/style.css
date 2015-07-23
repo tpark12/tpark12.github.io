@@ -20,8 +20,9 @@ section#classnote{
 	font-size: 20px;
 	padding: 0;
 	border: 10px;
-	color:
+	color:#FFFFFF;
 }
 section#classnote{
-	border-box: #e91e63;
+	box-sizing: border-box;
+	background-color: #e91e63;
 }
