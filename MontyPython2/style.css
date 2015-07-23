@@ -31,3 +31,9 @@ section#classnote{
 	width: 32%;
 	column-width: 0px;
 }
+section#players{
+	box-sizing: border-box;
+	background-color: #03a9f4;
+	float: left;
+	width: 49%;
+}
