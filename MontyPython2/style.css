@@ -28,6 +28,6 @@ section#classnote{
 	box-sizing: border-box;
 	background-color: #e91e63;
 	float: left;
-	width: 200px;
+	width: 100%;
 	column-width: 0px;
 }
