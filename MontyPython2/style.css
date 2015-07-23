@@ -3,4 +3,8 @@ body{
 	background-image: url(images/background.jpg);
 	background-repeat: no-repeat;
 	font-size: 40px;
+	margin:;
+}
+h1{
+	font-family: sans-serif;
 }
