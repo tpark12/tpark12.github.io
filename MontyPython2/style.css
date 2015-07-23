@@ -3,7 +3,8 @@ body{
 	background-image: url(images/background.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	font-size: 40px;
+	background-size: cover;
+	font-size: 60px;
 	margin:0em;
 }
 h1{
@@ -12,6 +13,6 @@ h1{
 
 section#footer{
 	font-size: 64px;
-	padding: 4em 0em 2em 0em;
+	padding: 4em 0em 1em 0em;
 	color:#FFFFFF;
 }
