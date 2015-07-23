@@ -10,5 +10,6 @@ h1{
 }
 
 section#footer{
-	font-size: 64px
+	font-size: 64px;
+	padding: 0em 0em 2em 0em;
 }
