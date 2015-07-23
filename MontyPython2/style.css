@@ -5,7 +5,6 @@ body{
 	background-attachment: fixed;
 	background-size: cover;
 	font-family:sans-serif;
-	font-size: 40px;
 	margin:0em;
 }
 h1{
@@ -16,4 +15,10 @@ section#footer{
 	font-size: 80px;
 	padding: 4em 0em 1em 0em;
 	color:#FFFFFF;
+}
+section#classnote{
+	font-size: 20px;
+	padding: 0;
+	border: 10px ;
+	color: #e91e63;
 }
