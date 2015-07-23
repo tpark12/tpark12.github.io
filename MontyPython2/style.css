@@ -25,6 +25,7 @@ section#classnote{
 section#classnote{
 	box-sizing: border-box;
 	background-color: #e91e63;
-	width: 100%;
+	float: left;
+	width: 33.33%;
 	column-width: 75px;
 }
