@@ -25,14 +25,14 @@ section#classnote{
 	color:#FFFFFF;
 }
 section#classnote{
-	box-sizing: box;
+	box-sizing: border-box;
 	background-color: #e91e63;
 	float: left;
 	width: 32%;
 	column-width: 0px;
 }
 section#players{
-	box-sizing: border-box;
+	box-sizing: box;
 	background-color: #03a9f4;
 	float: left;
 	width: 49%;
