@@ -29,7 +29,6 @@ section#classnote{
 	background-color: #e91e63;
 	float: left;
 	width: 32%;
-	column-width: 0px;
 }
 section#players{
 	box-sizing: box;
