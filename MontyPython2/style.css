@@ -23,6 +23,7 @@ section#classnote{
 	color:#FFFFFF;
 }
 section#classnote{
+	position: fixed;
 	box-sizing: border-box;
 	background-color: #e91e63;
 	float: left;
