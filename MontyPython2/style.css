@@ -31,7 +31,8 @@ section#classnote{
 section#players{
 	box-sizing: box;
 	background-color: #03a9f4;
-	margin: 1px;
+	margin: 1.5px;
 	float: left;
 	width: 49%;
+	color:#FFFFFF;
 }
