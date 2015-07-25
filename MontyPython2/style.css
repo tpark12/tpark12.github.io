@@ -24,12 +24,14 @@ section#classnote{
 }
 section#classnote{
 	position: relative;
+	margin: 1px;
 	box-sizing: border-box;
 	background-color: #e91e63;
 	float: left;
 	width: 32%;
 }
 section#players{
+	font-size: 16px;
 	box-sizing: box;
 	background-color: #03a9f4;
 	margin: .5em;
@@ -39,7 +41,6 @@ section#players{
 	color:#FFFFFF;
 }
 section#players{
-	font-size: 16px;
 	padding: 1px 2px 1px 0px;
 
 }
