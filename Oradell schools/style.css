@@ -1,0 +1,7 @@
+*{ margin:0; padding:0; box-sizing: border-box;}
+body{
+	margin: 1px
+	border: 2px 0px 0px 2px;
+	padding: 1px 1px 1px 1px;
+	content: 0px 0px 0px 0px;
+}
