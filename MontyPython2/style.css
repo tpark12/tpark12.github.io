@@ -47,5 +47,5 @@ section#players{
 }
 img#Play{
 	border-radius: 50%;
-	border:2px solid black;
+	border-image: 40% round;
 }
