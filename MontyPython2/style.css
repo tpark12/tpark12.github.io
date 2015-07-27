@@ -27,7 +27,7 @@ section#classnote{
 	box-sizing: border-box;
 	background-color: #e91e63;
 	float: left;
-	width: 32%;
+	width: 32.5%;
 	border: 5px;
 }
 section#players{
@@ -41,11 +41,14 @@ section#players{
 	width: 48%;
 	color:#FFFFFF;
 }
+section#players h1{
+	padding-right: 10px;
+}
 section#players{
 	padding: 1px 2px 1px 0px;
 
 }
 section#players img{
 	border-radius: 50%;
-	border-image: 100% round;
+	border-image: 50% round;
 }
