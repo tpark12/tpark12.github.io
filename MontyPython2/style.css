@@ -42,7 +42,8 @@ section#players{
 	color:#FFFFFF;
 }
 section#players h1{
-	padding-right: 50&;
+	padding-right: 50%;
+	word-spacing: 1px;
 }
 section#players{
 	padding: 1px 2px 1px 0px;
