@@ -9,4 +9,10 @@ body{
 section#schools{
 	width: 33%;
 	padding: 1px;
+	float: left;
+	border: ;
+}
+section#schools img{
+	border-color: solid black;
+	border: 1px;
 }
