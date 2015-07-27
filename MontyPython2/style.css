@@ -51,4 +51,5 @@ section#players{
 section#players img{
 	border-radius: 50%;
 	border-image: 50% round;
+	padding-left: 20px;
 }
