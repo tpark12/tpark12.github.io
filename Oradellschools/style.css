@@ -33,7 +33,9 @@ section#principal{
 section#superintendent{
 	width: 49%;
 	float: left;
-	margin: 15px;
+	margin: 5px;
+	font-size: 32px;
 	font-family: sans-serif;
 	color: #FFFFFF;
+
 }
