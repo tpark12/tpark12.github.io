@@ -20,3 +20,7 @@ section#schools img{
 	border: 1px;
 	border-style: solid;
 }
+section#principals{
+	width: 33%;
+	padding: 0px;
+}
