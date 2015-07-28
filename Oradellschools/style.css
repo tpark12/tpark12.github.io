@@ -18,7 +18,7 @@ section#schools{
 section#schools img{
 	box-sizing: fixed-box;
 	border-color: solid black;
-	border: 4px;
+	border: 1px;
 	padding: 8px;
 	margin: 1px;
 	content: 1px;
