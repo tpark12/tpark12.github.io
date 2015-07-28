@@ -23,4 +23,5 @@ section#schools img{
 section#principal{
 	width: 33%;
 	padding: 0px;
+	float: left;
 }
