@@ -26,8 +26,14 @@ section#principal{
 	padding: 10px 0px 0px 0px;
 	content: 0px 0px 0px 50px;
 	float: left;
+	font-size: 24px;
+	font-family: sans-serif;
+	color: #FFFFFF;
 }
 section#superintendent{
 	width: 49%;
 	float: left;
+	margin: 15px;
+	font-family: sans-serif;
+	color: #FFFFFF;
 }
