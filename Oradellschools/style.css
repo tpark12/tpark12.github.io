@@ -5,12 +5,13 @@ body{
 	padding: 1px 1px 1px 1px;
 	content: 0px 0px 0px 0px;
 	background-color: gold;
+	font-color: ;
 }
 section#schools{
 	width: 33%;
 	padding: 1px;
 	float: left;
-	border: ;
+	font-color: white; 
 }
 section#schools img{
 	border-color: solid black;
