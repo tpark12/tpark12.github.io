@@ -21,6 +21,7 @@ section#schools img{
 	border: 4px;
 	padding: 8px;
 	margin: 1px;
+	content: 20px;
 	border-style: solid;
 }
 section#principal{
