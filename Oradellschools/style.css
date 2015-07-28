@@ -19,6 +19,7 @@ section#schools img{
 	box-sizing: border-box;
 	border-color: solid black;
 	border: 4px;
+	padding: 8px;
 	margin: 8px;
 	border-style: solid;
 }
