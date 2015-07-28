@@ -18,10 +18,10 @@ section#schools{
 section#schools img{
 	box-sizing: fixed-box;
 	border-color: solid black;
-	border: 1px;
+	border: 4px;
 	padding: 8px;
 	margin: 1px;
-	content: 1px;
+	content: 0px;
 	border-style: solid;
 }
 section#principal{
