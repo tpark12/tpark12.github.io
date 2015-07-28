@@ -15,4 +15,5 @@ section#schools{
 section#schools img{
 	border-color: solid black;
 	border: 1px;
+	border-style: solid;
 }
