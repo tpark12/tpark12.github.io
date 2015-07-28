@@ -21,14 +21,14 @@ section#schools img{
 	border: 4px;
 	padding: 8px;
 	margin: 1px;
-	content: 20px;
+	content: 1px;
 	border-style: solid;
 }
 section#principal{
 	width: 32%;
 	margin: 25px 0px 0px 0px;
 	padding: 10px 0px 0px 0px;
-	content: 0px 0px 0px 50px;
+	content: 50px;
 	float: left;
 	font-size: 18px;
 	font-family: sans-serif;
