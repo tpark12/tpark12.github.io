@@ -16,7 +16,7 @@ section#schools{
 	color: #FFFFFF; 
 }
 section#schools img{
-	box-sizing: border-box;
+	box-sizing: fixed-box;
 	border-color: solid black;
 	border: 4px;
 	padding: 8px;
