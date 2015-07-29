@@ -35,7 +35,7 @@ section.players{
 	box-sizing: box;
 	background-color: #03a9f4;
 	margin: 2px 2px 2px 2px;
-	content: 1px;
+	content: 10px 0px 10px 0px;
 	float: left;
 	width: 48%;
 	color:#FFFFFF;
