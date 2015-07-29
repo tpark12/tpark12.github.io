@@ -29,11 +29,11 @@ section.schools img{
 section.principal{
 	width: 32%;
 	margin: 25px 0px 0px 0px;
-	padding: 10px 0px 0px 0px;
+	padding: 10px 0px 0px 20px;
 	content: 50px;
 	float: left;
 	font-size: 18px;
-	max-height: 100px;
+	max-height: 70px;
 	font-family: sans-serif;
 	color: #FFFFFF;
 }
@@ -41,7 +41,7 @@ section.superintendent{
 	width: 40%;
 	float: left;
 	margin: 1px 0px 1px 0px;
-	padding: 0px 10px 0px 10px;
+	padding: 20px 10px 0px 10px;
 	font-size: 26px;
 	font-family: sans-serif;
 	color: #FFFFFF;
