@@ -23,8 +23,8 @@ section.schools img{
 	margin: 1px;
 	content: 0px;
 	border-style: solid;
-	max-height: 2em;
-	max-width: 2em;
+	max-height: 50em;
+	max-width: 50em;
 }
 section.principal{
 	width: 32%;
