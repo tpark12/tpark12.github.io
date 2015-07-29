@@ -14,7 +14,6 @@ section.schools{
 	float: left;
 	font-size: 20px;
 	color: #FFFFFF;
-	max-height: 50px;
 }
 section.schools img{
 	box-sizing: fixed-box;
@@ -24,6 +23,7 @@ section.schools img{
 	margin: 1px;
 	content: 0px;
 	border-style: solid;
+	max-height: 100px
 }
 section.principal{
 	width: 32%;
@@ -35,7 +35,7 @@ section.principal{
 	font-family: sans-serif;
 	color: #FFFFFF;
 }
-section#superintendent{
+section.superintendent{
 	width: 45%;
 	float: left;
 	margin: 0px;
