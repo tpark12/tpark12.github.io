@@ -33,6 +33,7 @@ section.principal{
 	content: 50px;
 	float: left;
 	font-size: 18px;
+	max-height: 30px;
 	font-family: sans-serif;
 	color: #FFFFFF;
 }
