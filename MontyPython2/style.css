@@ -11,18 +11,16 @@ h1{
 	font-family: sans-serif; bold;
 }
 
-section#footer{
+section.footer{
 	font-size: 110px;
 	padding: 4em 0em 1em 0em;
 	color:#FFFFFF;
 }
-section#classnote{
+section.classnote{
 	font-size: 16px;
 	padding: 1px 0px 1px 0px;
 	word-spacing: 5px;
 	color:#FFFFFF;
-}
-section#classnote{
 	position: relative;
 	box-sizing: border-box;
 	background-color: #e91e63;
@@ -31,7 +29,7 @@ section#classnote{
 	width: 33.33%;
 	border: 5px;
 }
-section#players{
+section.players{
 	display: inline;
 	font-size: 16px;
 	box-sizing: box;
@@ -42,15 +40,15 @@ section#players{
 	width: 48%;
 	color:#FFFFFF;
 }
-section#players h1{
+section.players h1{
 	padding-right: 50%;
 	word-spacing: 1px;
 }
-section#players{
-	padding: 1px 2px 1px 0px;
+section.players{
+	padding: 4px 2px 4px 0px;
 
 }
-section#players img{
+section.players img{
 	border-radius: 50%;
 	border-image: 100% round;
 	padding-left: 0px;
