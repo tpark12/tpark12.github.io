@@ -38,7 +38,7 @@ section.principal{
 }
 section.superintendent{
 	width: 40%;
-	float: left;
+	float: 0;
 	margin: 1px 0px 1px 0px;
 	padding: 0px 10px 0px 10px;
 	font-size: 26px;
