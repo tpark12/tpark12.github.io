@@ -42,7 +42,7 @@ section.players{
 }
 section.players h1{
 	padding-right: 50%;
-	word-spacing: 1px;
+	word-spacing: 10px 0px 0px 0px;
 }
 section.players{
 	padding: 4px 2px 4px 0px;
