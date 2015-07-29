@@ -34,7 +34,7 @@ section.players{
 	font-size: 16px;
 	box-sizing: box;
 	background-color: #03a9f4;
-	margin: 0px;
+	margin: 0px 2px 0px 2px;
 	content: 1px;
 	float: left;
 	width: 48%;
