@@ -50,6 +50,8 @@ section.superintendent{
 section.superintedent img{
 	box-sizing: fixed-box;
 	border-color: none;
+	border: 0px;
+	margin: 10px;
 	padding: 10px;
 	content: 0px;
 	max-height: 2em;
