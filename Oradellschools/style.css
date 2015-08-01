@@ -56,4 +56,6 @@ section.superintedent img{
 	content: 0px;
 	max-height: 20px;
 	max-width: 10em;
+	width: 50%;
+	float: left;
 }
