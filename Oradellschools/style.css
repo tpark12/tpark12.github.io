@@ -47,3 +47,8 @@ section.superintendent{
 	color: #FFFFFF;
 
 }
+section.superintedent img{
+	box-sizing: fixed-box;
+	border-color: none;
+	max-height: 5;
+}
