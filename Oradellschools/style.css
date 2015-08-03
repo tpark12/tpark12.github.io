@@ -41,10 +41,10 @@ section.principal img{
 	box-sizing: fixed-box;
 	border-color: none;
 	width: 30%;
-	padding: 200px 0px 0px 200px;
+	padding: 50px 0px 0px 50px;
 	float: left;
-	max-height: 500em;
-	max-width: 400em;
+	max-height: 50em;
+	max-width: 40em;
 }
 section.superintendent{
 	width: 40%;
