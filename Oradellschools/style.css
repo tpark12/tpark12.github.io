@@ -41,6 +41,7 @@ section.principal img{
 	box-sizing: fixed-box;
 	border-color: none;
 	width: 30%;
+	margin: 75px 0px 0px 0px;
 	padding: 50px 0px 0px 50px;
 	float: left;
 	max-height: 500px;
