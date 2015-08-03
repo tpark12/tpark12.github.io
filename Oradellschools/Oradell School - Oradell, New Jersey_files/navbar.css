@@ -1,0 +1,50 @@
+.zumu_nb_head {
+    cursor:pointer;
+}
+.zumu_nb_head_hoverin {
+    cursor:pointer;
+}
+.zumu_nb_head_selected {
+    cursor:pointer;
+}
+.zumu_nb_head_selected_hoverin {
+    cursor:pointer;
+}
+
+.zumu_nb_menu {
+    cursor:pointer;
+    position:absolute;
+    z-index: 99;
+}
+.zumu_nb_menuitem {
+    text-align: left;
+}
+.zumu_nb_menuitem_mouseover {
+    text-align: left;
+}
+
+
+.zumu_nb2_head {
+    cursor:pointer;
+}
+.zumu_nb2_head_hoverin {
+    cursor:pointer;
+}
+.zumu_nb2_head_selected {
+    cursor:pointer;
+}
+.zumu_nb2_head_selected_hoverin {
+    cursor:pointer;
+}
+
+.zumu_nb2_menu {
+    cursor:pointer;
+    position:absolute;
+    z-index: 99;
+}
+.zumu_nb2_menuitem {
+    text-align: left;
+}
+.zumu_nb2_menuitem_mouseover {
+    text-align: left;
+}
