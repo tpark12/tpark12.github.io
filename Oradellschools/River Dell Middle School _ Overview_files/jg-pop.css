@@ -1,0 +1,101 @@
+#jg-pop-fader{
+     position : absolute;
+     top : 0px;
+     left : 0px;
+     z-index : 10000;
+     background-color : #000000;
+     opacity : 0.8;
+     filter : alpha(opacity = 80);
+     display : none;
+}
+#jg-pop-container{
+     position:absolute;
+     width:500px;
+     height:auto;
+     z-index:10001;
+}
+#jg-pop-content{
+     position : relative;
+     width : auto;
+     padding : 40px 25px 25px 25px;
+     height : auto;
+}
+#jg-pop-bg{
+     width:100%;
+     height:100%;
+     position:absolute;
+     top:0px;
+     left:0px;
+     background-color:#FFFFFF;
+}
+#jg-pop-t{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-t.png) repeat-x;
+     width:100%;
+     height:25px;
+     top:-25px;
+}
+#jg-pop-tr{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-tr.png) no-repeat;
+     width:25px;
+     height:25px;
+     top:-25px;
+     right:-25px;
+}
+#jg-pop-r{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-r.png) repeat-y;
+     width:25px;
+     height:100%;
+     right:-25px;
+}
+#jg-pop-br{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-br.png) no-repeat;
+     width:25px;
+     height:25px;
+     bottom:-25px;
+     right:-25px;
+}
+#jg-pop-b{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-b.png) repeat-x;
+     width:100%;
+     height:25px;
+     bottom:-25px;
+}
+#jg-pop-bl{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-bl.png) no-repeat;
+     width:25px;
+     height:25px;
+     bottom:-25px;
+     left:-25px;
+}
+#jg-pop-l{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-l.png) repeat-y;
+     height:100%;
+     width:25px;
+     left:-25px;
+}
+#jg-pop-tl{
+     position:absolute;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-tl.png) no-repeat;
+     width:25px;
+     height:25px;
+     top:-25px;
+     left:-25px;
+}
+
+#jg-pop-x{
+     position : absolute;
+     top:-6px;
+     right:-6px;
+     background: transparent url(http://extend.schoolwires.com/creative/powertools/jg-pop/images/jg-pop-x.png) no-repeat;
+     width : 74px;
+     height : 22px;
+     z-index : 10002;
+     cursor : pointer;
+}
