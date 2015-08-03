@@ -40,8 +40,8 @@ section.principal{
 section.principal img{
 	width: 30%;
 	float: left;
-	max-height: 50em;
-	max-width: 40px;
+	max-height: 500em;
+	max-width: 400em;
 }
 section.superintendent{
 	width: 40%;
