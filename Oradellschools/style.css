@@ -38,7 +38,10 @@ section.principal{
 	color: #FFFFFF;
 }
 section.principal img{
+	box-sizing: fixed-box;
+	border-color: none;
 	width: 30%;
+	padding: 200px 0px 0px 200px;
 	float: left;
 	max-height: 500em;
 	max-width: 400em;
