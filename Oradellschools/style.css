@@ -41,7 +41,7 @@ section.principal img{
 	box-sizing: fixed-box;
 	border-color: none;
 	width: 50%;
-	margin: 0px 0px 10px 10px;
+	margin: 0px 0px 10px 0px;
 	padding: 20px 0px 0px 0px;
 	content: 50px;
 	float: left;
