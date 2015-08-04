@@ -45,8 +45,8 @@ section.principal img{
 	padding: 20px 0px 0px 0px;
 	content: 100px 0px 20px 0px;
 	float: left;
-	max-height: 100em;
-	max-width: 100em;
+	max-height: 150em;
+	max-width: 200em;
 }
 section.superintendent{
 	width: 40%;
