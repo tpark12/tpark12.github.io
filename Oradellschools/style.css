@@ -51,7 +51,7 @@ section.principal img{
 section.superintendent{
 	width: 40%;
 	float: left;
-	margin: 100px 0px 100px 0px;
+	margin: 200px 0px 100px 0px;
 	padding: 20px 10px 0px 10px;
 	font-size: 26px;
 	font-family: sans-serif;
@@ -63,7 +63,7 @@ section.superintedent img{
 	border-color: none;
 	border: 0px;
 	margin: 25px 0px 20px 0px;
-	padding: 250px 0px 50px 0px;
+	padding: 200px 0px 50px 0px;
 	content: 0px;
 	max-height: 20px;
 	max-width: 10em;
