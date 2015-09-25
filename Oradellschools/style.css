@@ -1,72 +1,12 @@
 *{ margin:0; padding:0; box-sizing: border-box;}
-body{
-	margin: 1px 0px 0px 1px;
-	border: 2px 0px 0px 2px;
-	padding: 1px 1px 1px 1px;
-	content: 0px 10px 0px 10px;
-	background-color: gold;
-	font-color: ;
-}
-section.schools{
-	width: 33%;
-	padding: 5px;
-	margin: 2px 0px 2px 0px;
-	float: left;
-	font-size: 20px;
-	color: #FFFFFF;
-}
-section.schools img{
-	box-sizing: fixed-box;
-	border-color: solid black;
-	border: 4px;
-	padding: 8px;
-	margin: 1px;
-	content: 0px;
-	border-style: solid;
-	max-height: 10em;
-	max-width: 15em;
-}
-section.principal{
-	width: 30%;
-	margin: 0px 0px 0px 10px;
-	padding: 0px 0px 15px 60px;
-	content: 175px 0px 0px 0px;
-	float: left;
-	font-size: 18px;
-	max-height: 100px;
-	font-family: sans-serif;
-	color: #FFFFFF;
-}
-section.principal img{
-	box-sizing: fixed-box;
-	border-color: none;
-	width: 50%;
-	margin: 0px 0px 10px 0px;
-	padding: 20px 0px 0px 0px;
-	content: 100px 0px 20px 0px;
-	float: left;
-	max-height: 150em;
-	max-width: 200em;
-}
-section.superintendent{
-	width: 40%;
-	float: left;
-	margin: 200px 0px 100px 0px;
-	padding: 20px 10px 0px 10px;
-	font-size: 26px;
-	font-family: sans-serif;
-	color: #FFFFFF;
 
+.schools {
+	background-color:#aaa;
 }
-section.superintedent img{
-	box-sizing: fixed-box;
-	border-color: none;
-	border: 0px;
-	margin: 25px 0px 20px 0px;
-	padding: 200px 0px 50px 0px;
-	content: 0px;
-	max-height: 20px;
-	max-width: 10em;
-	width: 50%;
-	float: left;
+.faculty {
+	background-color:#888;
+}
+
+.clearfix {
+	
 }
