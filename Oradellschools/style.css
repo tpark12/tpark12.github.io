@@ -17,7 +17,7 @@
 .faculty {
 	background-color:#F4F1C9;
 }
-.principal img {
+.faculty.principal img {
 	float: left;
 	width: 32.33%;
 	margin: 1%;
@@ -25,6 +25,11 @@
 	min-height: 10em;
 	max-width: 25em;
 	max-height: 30em;
+}
+.faculty.superintendent img {
+	float: left;
+	width: 49%;
+	margin: 1%;
 }
 .clearfix {
 	
