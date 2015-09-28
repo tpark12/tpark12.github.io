@@ -1,7 +1,8 @@
 *{ margin:0; padding:0; box-sizing: border-box;}
 
 .schools {
-	background-color:#aaa;
+	background-color:gold;
+	width: 33.33%;
 }
 .faculty {
 	background-color:#888;
