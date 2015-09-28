@@ -8,10 +8,10 @@
 	float: left;
 	width: 32.33%;
 	margin: 1%;
-	min-width: 10em;
-	min-height: 15em;
-	max-width: 20em;
-	max-height: 25em;
+	min-width: 5em;
+	min-height: 10em;
+	max-width: 15em;
+	max-height: 20em;
 }
 .faculty {
 	background-color:#888;
