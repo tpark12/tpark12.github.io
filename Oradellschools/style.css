@@ -5,6 +5,10 @@
 	background-repeat: no-repeat;
 	float: left;
 }
+.schools img {
+	float: left;
+	width: 33.33%;
+}
 .faculty {
 	background-color:#888;
 }
