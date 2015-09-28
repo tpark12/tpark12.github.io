@@ -9,6 +9,8 @@
 	float: left;
 	width: 32.33%;
 	margin: 1%;
+	min-width: 400px;
+	min-height: 200px;
 	max-width: 500px;
 	max-height: 300px;
 }
