@@ -2,6 +2,7 @@
 
 .schools {
 	background-color:gold;
+	background-repeat: no-repeat;
 	width: 33.33%;
 }
 .faculty {
