@@ -7,10 +7,10 @@
 }
 .schools img {
 	float: left;
-	width: 33%;
+	width: 32.33%;
 	margin: 1%;
-	min-width: 15em;
-	min-height: 10em;
+	min-width: 20em;
+	min-height: 15em;
 	max-width: 30em;
 	max-height: 40em;
 }
