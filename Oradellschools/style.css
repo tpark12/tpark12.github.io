@@ -15,9 +15,17 @@
 	max-height: 40em;
 }
 .faculty {
-	background-color:#888;
+	background-color:#F4F1C9;
 }
-
+.principals img {
+	float: left;
+	width: 32.33%;
+	margin: 1%;
+	min-width: 15em;
+	min-height: 10em;
+	max-width: 25em;
+	max-height: 30em;
+}
 .clearfix {
 	
 }
