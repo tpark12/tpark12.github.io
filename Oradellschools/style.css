@@ -7,7 +7,10 @@
 }
 .schools img {
 	float: left;
-	width: 33.33%;
+	width: 32.33%;
+	margin: 1%;
+	max-width: 300px;
+	max-height: 100px;
 }
 .faculty {
 	background-color:#888;
