@@ -21,7 +21,7 @@ div.principal {
 	text-align: center;
 	width: 200px;
 }
-.principal img {
+.principal span, .principal img {
 	float: left;
 	width: 32.33%;
 	margin: 1%;
