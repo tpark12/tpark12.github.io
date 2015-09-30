@@ -18,10 +18,11 @@
 	background-color:#F4F1C9;
 }
 .principal {
-	
+	text-align: center;
+	width: 200px;
 }
 .principal img {
-	float: left;
+	float: none;
 	width: 32.33%;
 	margin: 1%;
 	min-width: 10em;
