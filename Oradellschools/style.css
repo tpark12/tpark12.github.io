@@ -26,9 +26,9 @@
 	width: 32.33%;
 	margin: 1%;
 	min-width: 30em;
-	min-height: 10em;
-	max-width: 50em;
-	max-height: 20em;
+	min-height: 5em;
+	max-width: 40em;
+	max-height: 15em;
 	display: block;
 }
 .superintendent img {
