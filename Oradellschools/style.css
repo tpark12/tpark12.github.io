@@ -22,7 +22,7 @@
 	width: 200px;
 }
 .principal img {
-	position: relative;
+	position: fixed;
 	float: left;
 	width: 32.33%;
 	margin: 1%;
