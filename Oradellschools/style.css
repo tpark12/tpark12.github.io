@@ -22,7 +22,7 @@
 	width: 200px;
 }
 .principal img {
-	float: none;
+	float: left;
 	width: 32.33%;
 	margin: 1%;
 	min-width: 10em;
@@ -31,7 +31,7 @@
 	max-height: 20em;
 }
 .superintendent img {
-	float: left;
+	float: none;
 	width: 49%;
 	margin: 1.5%;
 	min-width: 20em;
