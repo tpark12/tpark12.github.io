@@ -17,6 +17,10 @@
 .faculty {
 	background-color:#F4F1C9;
 }
+div.principal {
+	text-align: center;
+	width: 200px;
+}
 .principal img {
 	float: left;
 	width: 32.33%;
