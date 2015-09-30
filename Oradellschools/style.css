@@ -29,6 +29,7 @@ div.principal {
 	min-height: 10em;
 	max-width: 20em;
 	max-height: 25em;
+	display: block;
 }
 .superintendent img {
 	float: left;
