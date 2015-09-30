@@ -30,7 +30,7 @@
 	min-height: 10em;
 	max-width: 30em;
 	max-height: 20em;
-	display: inline-block;
+	display: block;
 }
 .superintendent img {
 	float: left;
