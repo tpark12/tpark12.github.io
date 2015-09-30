@@ -26,10 +26,10 @@
 	float: left;
 	width: 32.33%;
 	margin: 1%;
-	min-width: 10em;
-	min-height: 10em;
+	min-width: 20em;
+	min-height: 15em;
 	max-width: 25em;
-	max-height: 20em;
+	max-height: 30em;
 }
 .superintendent img {
 	float: none;
