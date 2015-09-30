@@ -23,6 +23,7 @@
 }
 .principal img {
 	float: left;
+	height: 100%;
 	width: 32.33%;
 	margin: 1%;
 	min-width: 15em;
