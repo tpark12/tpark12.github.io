@@ -24,13 +24,14 @@
 }
 .principal img {
 
-	float: none;
+	float: left;
 	width: 32.33%;
 	margin: 1%;
 	min-width: 10em;
 	min-height: 15em;
 	max-width: 20em;
 	max-height: 30em;
+	padding: 100px;
 }
 .superintendent img {
 	float: none;
