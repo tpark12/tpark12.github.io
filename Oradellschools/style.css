@@ -25,6 +25,7 @@
 .principal img {
 
 	float: left;
+	position: fixed;
 	width: 49%;
 	margin: 1%;
 	min-width: 10em;
