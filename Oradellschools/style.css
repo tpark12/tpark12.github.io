@@ -39,7 +39,7 @@
 }
 .superintendent img {
 	display: inline;
-	float: left;
+	float: none;
 	width: 48%;
 	margin: 1%;
 	min-width: 20em;
