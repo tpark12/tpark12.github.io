@@ -43,5 +43,5 @@
 	max-height: 25em;
 }
 .clearfix {
-	
+	overflow: auto;
 }
