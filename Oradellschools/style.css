@@ -34,7 +34,7 @@
 
 }
 .superintendent img {
-	float: none;
+	float: left;
 	width: 49%;
 	margin: 1%;
 	min-width: 20em;
