@@ -42,9 +42,9 @@
 	float: none;
 	width: 48%;
 	margin: 1%;
-	min-width: 20em;
+	min-width: 25em;
 	min-height: 15em;
-	max-width: 30em;
+	max-width: 50em;
 	max-height: 25em;
 }
 .clearfix {
