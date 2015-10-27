@@ -37,6 +37,7 @@
 	text-align: left;
 	width: 100px;
 	max-width: 250px;
+	clear: both;
 }
 .superintendent span, .superintendent img {
 	display: inline;
