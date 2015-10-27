@@ -48,7 +48,6 @@
 	min-height: 15em;
 	max-width: 40em;
 	max-height: 25em;
-	clear: both;
 }
 .clearfix {
 	overflow: auto;
