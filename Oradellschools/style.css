@@ -34,7 +34,7 @@
 
 }
 .superintendent {
-	
+	text-align: center;
 	width: 100px;
 	max-width: 250px;
 	clear: both;
@@ -43,7 +43,7 @@
 }
 .superintendent span, .superintendent img {
 	display: inline;
-	float: none;
+	float: left;
 	width: 48%;
 	margin: 1%;
 	min-width: 25em;
