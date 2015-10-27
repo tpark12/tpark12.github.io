@@ -34,10 +34,12 @@
 
 }
 .superintendent {
-	text-align: left;
+	text-align: center;
 	width: 100px;
 	max-width: 250px;
+	clear: both;
 	display: inline-block;
+
 }
 .superintendent span, .superintendent img {
 	display: inline;
