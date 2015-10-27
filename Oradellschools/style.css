@@ -37,8 +37,6 @@
 	text-align: center;
 	width: 250px;
 	max-width: 700px;
-	clear: none;
-	display: none;
 
 }
 .superintendent span, .superintendent img {
@@ -50,6 +48,8 @@
 	min-height: 15em;
 	max-width: 40em;
 	max-height: 25em;
+	clear: none;
+	display: none;
 }
 .clearfix {
 	overflow: auto;
