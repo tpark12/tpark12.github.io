@@ -37,7 +37,7 @@
 	text-align: center;
 	width: 100px;
 	max-width: 250px;
-	clear: both;
+	clear: none;
 	display: inline-block;
 
 }
