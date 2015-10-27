@@ -49,7 +49,7 @@
 	max-width: 40em;
 	max-height: 25em;
 	clear: none;
-	display: none;
+	display: inline-block;
 }
 .clearfix {
 	overflow: auto;
