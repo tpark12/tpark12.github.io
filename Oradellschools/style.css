@@ -36,6 +36,7 @@
 .superintendent {
 	text-align: center;
 	width: 100px;
+	max-width: 250px;
 }
 .superintendent span, .superintendent img {
 	display: inline;
