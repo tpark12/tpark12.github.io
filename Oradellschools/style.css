@@ -42,13 +42,14 @@
 }
 .superintendent span, .superintendent img {
 	float: left;
-	width: 48%;
+	width: 49%;
 	margin: 1%;
 	min-width: 20em;
 	min-height: 15em;
 	height: 200px;
 	max-width: 40em;
 	max-height: 25em;
+	left: 250px;
 }
 .clearfix {
 	overflow: auto;
