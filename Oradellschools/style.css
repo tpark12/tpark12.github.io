@@ -36,7 +36,7 @@
 }
 .superintendent {
 	text-align: center;
-	width: 600px;
+	width: 1000px;
 	max-width: 1300px;
 
 }
@@ -46,6 +46,7 @@
 	margin: 1%;
 	min-width: 20em;
 	min-height: 15em;
+	width: 400px;
 	height: 200px;
 	max-width: 40em;
 	max-height: 25em;
