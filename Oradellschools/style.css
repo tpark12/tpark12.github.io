@@ -35,8 +35,7 @@
 }
 .superintendent {
 	text-align: center;
-	
-	min-width: 700px;
+	width: 600;
 	max-width: 1300px;
 
 }
