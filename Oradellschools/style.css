@@ -25,12 +25,12 @@
 .principal span, .principal img {
 
 	float: left;
-	width: 31.33%;
+	width: 32.33%;
 	margin: 1%;
 	min-width: 10em;
 	min-height: 15em;
-	width: 600px;
-	max-width: 1900px;
+	width: 500px;
+	max-width: 1500px;
 	max-height: 40em;
 
 }
