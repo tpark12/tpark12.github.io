@@ -52,7 +52,7 @@
 	max-width: 35em;
 	max-height: 25em;
 	left: 250px;
-	clear: inherit;
+	clear: right;
 }
 .clearfix {
 	overflow: auto;
