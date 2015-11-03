@@ -22,6 +22,8 @@
 	text-align: center;
 	width: 300px;
 	max-width: 500px;
+	height: auto;
+	overflow: hidden;
 }
 .principal span, .principal img {
 
