@@ -43,7 +43,7 @@
 
 }
 .superintendent span, .superintendent img {
-	float: none;
+	float: left;
 	width: 49%;
 	margin: 1%;
 	min-width: 25em;
@@ -53,8 +53,8 @@
 	height: 100px;
 	max-width: 75em;
 	max-height: 30em;
-	left: 250px;
-	clear: left;
+	left: 200px;
+	clear: none;
 	padding: 5px 0px 5px 0px;
 	margin: 0px 10px 0px 10px;
 }
