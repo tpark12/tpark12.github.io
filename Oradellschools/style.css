@@ -39,17 +39,19 @@
 	text-align: center;
 	width: 1000px;
 	max-width: 1200px;
+	height: auto;
+	overflow: hidden;
 	float: bottom;
 
 }
 .superintendent span, .superintendent img {
 	float: left;
-	width: 40%;
+	width: 49%;
 	margin: 1%;
 	min-width: 30em;
 	min-height: 25em;
 	width: 200px;
-	height: 100px;
+	height: auto;
 	max-width: 60em;
 	max-height: 50em;
 	left: 100px;
