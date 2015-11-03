@@ -54,6 +54,7 @@
 	max-height: 25em;
 	left: 250px;
 	clear: right;
+	padding: 0px 5px 0px 5px;
 }
 .clearfix {
 	overflow: auto;
