@@ -55,6 +55,7 @@
 	left: 250px;
 	clear: right;
 	padding: 0px 5px 0px 5px;
+	margin-bottom: 25px;
 }
 .clearfix {
 	overflow: auto;
