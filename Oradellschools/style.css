@@ -52,7 +52,7 @@
 	max-width: 35em;
 	max-height: 25em;
 	left: 250px;
-	clear: right;
+	clear: none;
 }
 .clearfix {
 	overflow: auto;
