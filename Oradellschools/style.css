@@ -49,6 +49,7 @@
 	min-width: 25em;
 	min-height: 20em;
 	display: block;
+	position: fixed;
 	width: 200px;
 	height: 100px;
 	max-width: 75em;
