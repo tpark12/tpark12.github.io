@@ -21,7 +21,8 @@
 .principal {
 	text-align: center;
 	width: 300px;
-	max-width: 500px;
+	max-width: 800px;
+	overflow: hidden;
 }
 .principal span, .principal img {
 
