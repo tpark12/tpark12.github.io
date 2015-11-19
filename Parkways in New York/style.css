@@ -8,8 +8,8 @@
 .Westchester.North-South img{
 	width: 32.33%;
 	margin: 1%;
-	min-width: 200px;
-	min-height: 150px;
-	max-width: 400px;
-	max-height: 300px;
+	min-width: 50px;
+	min-height: 30px;
+	max-width: 200px;
+	max-height: 100px;
 }
