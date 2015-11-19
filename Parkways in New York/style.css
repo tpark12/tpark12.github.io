@@ -1,0 +1,15 @@
+*{ margin:0; padding:0; box-sizing: border-box;}
+
+.Westchester.North-South {
+	background-color: green;
+	background-repeat: no-repeat;
+	float: left;
+}
+.Westchester.North-South img{
+	width: 32.33%;
+	margin: 1%;
+	min-width: 200px;
+	min-height: 150px;
+	max-width: 400px;
+	max-height: 300px;
+}
