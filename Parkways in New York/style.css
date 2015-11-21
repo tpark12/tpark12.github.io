@@ -14,3 +14,6 @@
 	max-height: 40px;
 	float: left;
 }
+.clearfix {
+	overflow: auto;
+}
