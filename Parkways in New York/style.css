@@ -10,8 +10,22 @@
 	margin: 1%;
 	min-width: 5px;
 	min-height: 10px;
-	max-width: 30px;
-	max-height: 40px;
+	max-width: 20px;
+	max-height: 30px;
+	float: left;
+}
+.Westchester-Bronx {
+	background-color: #663300;
+	background-repeat: no-repeat;
+	float: left;
+}
+.Westchester-Bronx img {
+	width: 49%;
+	margin: 1%;
+	min-width: 10px;
+	min-height: 15px;
+	max-width: 25px;
+	max-height: 30px;
 	float: left;
 }
 .clearfix {
