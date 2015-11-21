@@ -5,12 +5,12 @@
 	background-repeat: no-repeat;
 	float: left;
 }
-.Westchester.North-South img{
+.Westchester.North-South img {
 	width: 32.33%;
 	margin: 1%;
-	min-width: 20px;
+	min-width: 5px;
 	min-height: 10px;
-	max-width: 80px;
-	max-height: 50px;
+	max-width: 30px;
+	max-height: 40px;
 	float: left;
 }
