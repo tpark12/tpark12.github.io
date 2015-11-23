@@ -27,6 +27,8 @@
 	max-width: 320px;
 	max-height: 220px;
 	float: left;
+	padding: 50px 100px 50px 100px;
+	margin:;
 }
 .clearfix {
 	overflow: auto;
