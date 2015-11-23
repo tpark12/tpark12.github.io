@@ -22,8 +22,8 @@
 .Westchester-BronxParkways img {
 	width: 98%;
 	margin: 1%;
-	min-width: 100px;
-	min-height: 120px;
+	min-width: 200px;
+	min-height: 180px;
 	max-width: 320px;
 	max-height: 220px;
 	float: left;
