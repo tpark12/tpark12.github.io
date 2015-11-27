@@ -17,18 +17,18 @@
 .Westchester-BronxParkways {
 	background-color: #663300;
 	background-repeat: no-repeat;
-	width: 50%;
+	width: 100%;
 	float: left;
 	padding: 50px 200px 50px 200px;
 	margin: 0px 65px 0px 65px;
 }
 .Westchester-BronxParkways img {
-	width: 98%;
+	width: 49%;
 	margin: 1%;
 	min-width: 15em;
 	min-height: 20em;
 	max-width: 45em;
-	max-height: 50em;
+	max-height: 35em;
 	float: left;
 	padding: 0px 30px 0px 30px;
 	margin: 5px 0px 5px 0px;
