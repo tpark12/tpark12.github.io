@@ -27,11 +27,11 @@
 	margin: 15px;
 	min-width: 15em;
 	min-height: 10em;
-	max-width: 45em;
+	max-width: 35em;
 	max-height: 15em;
 	text-align: center;
 	float: left;
-	padding: 10px 50px 10px 50px;
+	padding: 10px 20px 10px 20px;
 	margin: 15px 0px 15px 0px;
 }
 .clearfix {
