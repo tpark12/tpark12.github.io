@@ -3,7 +3,10 @@
 .Westchester.North-South {
 	background-color: #009933;
 	background-repeat: no-repeat;
+	width: 100%;
 	float: left;
+	padding: 0px;
+	margin: 0px;
 }
 .Westchester.North-South img {
 	width: 32.33%;
@@ -33,6 +36,9 @@
 	float: left;
 	padding: 10px 20px 10px 20px;
 	margin: 15px 0px 15px 0px;
+}
+h1 {
+	font-family: sans-serif;
 }
 .clearfix {
 	overflow: auto;
