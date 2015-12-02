@@ -11,10 +11,10 @@
 .Westchester.North-SouthParkways img {
 	width: 32.33%;
 	margin: 1%;
-	min-width: 100px;
-	min-height: 115px;
-	max-width: 175px;
-	max-height: 200px;
+	min-width: 10em;
+	min-height: 15em;
+	max-width: 30em;
+	max-height: 20em;
 	text-align: center;
 	float: left;
 	padding: 0px 25px 0px 25px;
