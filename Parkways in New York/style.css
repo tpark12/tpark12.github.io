@@ -32,9 +32,9 @@
 .East-West img {
 	width: 49%;
 	margin: 1%;
-	min-width: 10em;
+	min-width: 20em;
 	min-height: 15em;
-	max-width: 20em;
+	max-width: 40em;
 	max-height: 20em;
 	text-align: center;
 	float: left;
