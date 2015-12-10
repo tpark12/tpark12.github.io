@@ -1,6 +1,6 @@
 *{ margin:0; padding:0; box-sizing: border-box;}
 
-.Westchester.North-South {
+.Westchester.North-SouthParkways {
 	background-color: #009933;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -8,7 +8,7 @@
 	padding: 15px 35px 15px 35px;
 	margin: 0px 0px 0px 0px;
 }
-.Westchester.North-South img {
+.Westchester.North-SouthParkways img {
 	width: 32.33%;
 	margin: 1%;
 	min-width: 250px;
