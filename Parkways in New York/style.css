@@ -3,13 +3,13 @@
 .North-SouthParkways {
 	background-color: #009933;
 	background-repeat: no-repeat;
-	width: 100%;
+	width: 50%;
 	float: left;
 	padding: 10px 20px 10px 20px;
 	margin: 0px 0px 0px 0px;
 }
 .North-SouthParkways img {
-	width: 99%;
+	width: 32.33%;
 	margin: 1%;
 	min-width: 5em;
 	min-height: 10em;
