@@ -1,6 +1,6 @@
 *{ margin:0; padding:0; box-sizing: border-box;}
 
-.North-SouthParkways {
+.North-South {
 	background-color: #009933;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -8,7 +8,7 @@
 	padding: 0px 25px 0px 25px;
 	margin: 0px 0px 0px 0px;
 }
-.North-SouthParkways img {
+.North-South img {
 	width: 32.33%;
 	margin: 1%;
 	min-width: 10em;
@@ -33,7 +33,7 @@
 	margin: 1%;
 	min-width: 15em;
 	min-height: 10em;
-	max-width: 35em;
+	max-width: 25em;
 	max-height: 15em;
 	text-align: center;
 	float: left;
